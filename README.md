@@ -1,6 +1,6 @@
 # tmssc  
 a semi-supervised multiview method  
-
+![Image text]()
 (1)mt-fbls is a method for single view data,  we run mt-fbls.py with:  
   python=3.9(a low verion above 3.6 should be ok)  
   scikit-fuzzy=0.4.2(other versions should be ok)  
