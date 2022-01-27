@@ -6,3 +6,6 @@ a semi-supervised multiview method:
  &emsp;scikit-fuzzy=0.4.2(other versions should be ok)  
  &emsp;torch=1.10.0(you can use GPU version also)  
  &emsp;scipy=1.7.1(other versions should be ok)  
+ 
+ (2) tmssc - multiview
+&emsp;same environment setup as (1)
